@@ -2,13 +2,13 @@
 
 Software Engineering student at EPITA, interested in building reliable and understandable software.
 
-I enjoy working on systems, networking, developer tools and low-level programming.
+I enjoy understanding how software works internally and turning that knowledge into small, readable projects.
 
 ## Featured projects
 
-- [EPICheck](https://github.com/cyril-huet/epicheck) — C11 tool for checking code quality, formatting and compilation.
-- [HTTPd](https://github.com/cyril-huet/HTTPd) — Educational HTTP/1.1 server written in C.
-
+- [my-42sh](https://github.com/cyril-huet/my-42sh) — A small Unix shell written in C99, with a lexer, parser, pipes, redirections and builtins.
+- [HTTPd](https://github.com/cyril-huet/HTTPd) — An educational HTTP/1.1 server written in C.
+- [EPICheck](https://github.com/cyril-huet/epicheck) — A C11 tool for checking formatting, compilation and basic code quality rules.
 
 ## Interests
 
