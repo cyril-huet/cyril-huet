@@ -10,6 +10,7 @@ I enjoy understanding how software works internally and turning that knowledge i
 - [HTTPd](https://github.com/cyril-huet/HTTPd) — An educational HTTP/1.1 server written in C.
 - [EPICheck](https://github.com/cyril-huet/epicheck) — A C11 tool for checking formatting, compilation and basic code quality rules.
 - [MiniGit](https://github.com/cyril-huet/minigit) — A small Git-inspired version control system written in C++17.
+- [MyMalloc](https://github.com/cyril-huet/MyMalloc) — Educational C memory allocator using `mmap`, block splitting and coalescing.
 
 ## Interests
 
