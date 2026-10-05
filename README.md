@@ -9,6 +9,7 @@ I enjoy understanding how software works internally and turning that knowledge i
 - [my-42sh](https://github.com/cyril-huet/my-42sh) — A small Unix shell written in C99, with a lexer, parser, pipes, redirections and builtins.
 - [HTTPd](https://github.com/cyril-huet/HTTPd) — An educational HTTP/1.1 server written in C.
 - [EPICheck](https://github.com/cyril-huet/epicheck) — A C11 tool for checking formatting, compilation and basic code quality rules.
+- [MiniGit](https://github.com/cyril-huet/minigit) — A small Git-inspired version control system written in C++17.
 
 ## Interests
 
