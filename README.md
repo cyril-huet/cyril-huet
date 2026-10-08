@@ -4,10 +4,6 @@ Software Engineering student at EPITA, interested in building reliable and under
 
 I enjoy understanding how software works internally and turning that knowledge into small, readable projects.
 
-Most of the repositories on this profile are personal projects. I built them at different times and published them on GitHub later, after cleaning and organizing them.
-
-I also keep the conventions I learned during my studies: consistent formatting, simple project structures, readable README files, clear Makefiles, tests and CI when they are useful.
-
 ## Featured projects
 
 - [my-42sh](https://github.com/cyril-huet/my-42sh) — A small Unix shell written in C99, with a lexer, parser, pipes, redirections and builtins.
